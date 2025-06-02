@@ -23,7 +23,7 @@ This project performs real-time face detection using your webcam, built with Pyt
 
 
 ## 📷 Demo
-![](demo1.png)(demo2.png)
+![](demo2.png,demo1.png)
 
 ## 🚀 Future Ideas
 - Add face recognition
